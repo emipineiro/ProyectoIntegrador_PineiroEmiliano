@@ -1,0 +1,9 @@
+.row{
+    background-color:  rgb(63, 152, 224);
+    padding: 20px;
+}
+.contenedor{
+    width: auto;
+    display: inline-block;
+    text-align: justify;
+}
